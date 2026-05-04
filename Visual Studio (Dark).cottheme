@@ -1,0 +1,62 @@
+{
+  "attributes" : {
+    "color" : "#9cdcfe"
+  },
+  "background" : {
+    "color" : "#171717"
+  },
+  "characters" : {
+    "color" : "#8bd3fe"
+  },
+  "commands" : {
+    "color" : "#cacaca"
+  },
+  "comments" : {
+    "color" : "#467038"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#aeafad",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#404040"
+  },
+  "keywords" : {
+    "color" : "#468acc"
+  },
+  "lineHighlight" : {
+    "color" : "#2a2d2e"
+  },
+  "metadata" : {
+    "author" : "matthewkeating",
+    "description" : "Visual Studio (Dark).",
+    "distributionURL" : "https://github.com/matthewkeating",
+    "license" : "MIT"
+  },
+  "numbers" : {
+    "color" : "#a8c397"
+  },
+  "selection" : {
+    "color" : "#1d3d65",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#ce9178"
+  },
+  "text" : {
+    "color" : "#d4d4d4"
+  },
+  "types" : {
+    "color" : "#4ec9b0"
+  },
+  "values" : {
+    "color" : "#cacaca"
+  },
+  "variables" : {
+    "color" : "#cacaca"
+  }
+}
